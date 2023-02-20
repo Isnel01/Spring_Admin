@@ -18,11 +18,13 @@ Swagger est un langage de description d'interface permettant de décrire des API
 Postman est une application permettant de tester des API. 
 Notre test nous a donné les résulats ci-dessous
 
-
+#All
 ![all](https://user-images.githubusercontent.com/125742984/219980717-52a0e4bc-8646-45b5-916f-a4e088c59997.PNG)
 
+#Login
 ![login](https://user-images.githubusercontent.com/125742984/219980725-d48f88a3-11f9-4001-8707-81840d7577cb.PNG)
 
+#Save
 ![post](https://user-images.githubusercontent.com/125742984/219980730-4ccc3fb7-a9a0-4b92-9106-484b88e30e15.PNG)
 
 
