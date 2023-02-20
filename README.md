@@ -2,7 +2,8 @@
 # Table
 Creation de la table
 
-![php](https://user-images.githubusercontent.com/125742984/219980342-1d5167a2-6607-46c2-b25c-7cd2e020f85e.PNG)
+![php](https://user-images.githubusercontent.com/125742984/220113094-3a37cdbb-6a96-4f85-95ca-4ce16d043d2a.PNG)
+
 
 # Swagger
 Swagger est un langage de description d'interface permettant de décrire des API exprimées à l'aide de JSON. Swagger est utilisé avec toute une série d'outils logiciels open source pour concevoir, créer, documenter et utiliser des services Web.
